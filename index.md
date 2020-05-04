@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coronavirus in Timeseria
 
 You can use the [editor on GitHub](https://github.com/tessaerin/STAT-153-Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
