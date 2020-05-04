@@ -4,6 +4,7 @@ The coronavirus, also known as COVID-19, needs very little introduction as it ha
 
 ### Data Exploration and Models Considered
 
+![Total confirmed COVID-19 cases in Timeseria](https://user-images.githubusercontent.com/64803890/81004446-46abd800-8e01-11ea-8049-baeba0c847dd.png)
 
 ### Model Comparison and Selection
 
