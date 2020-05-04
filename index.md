@@ -1,37 +1,12 @@
-## Coronavirus in Timeseria
+## The Coronavirus is in Full Effect in the Country of Timeseria
 
-You can use the [editor on GitHub](https://github.com/tessaerin/STAT-153-Project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The coronavirus, also known as COVID-19, needs very little introduction as it has been running rampant across the globe for some time now. 66 days have passed since the first confirmed case entered the country of Timeseria and the COVID-19 case count has since been increasing at an impressive rate, reaching just over 30,000 total confirmed cases to date. Concerns regarding hospital space and equipment have been expressed, as well as the economic effects of a global pandemic. In order to inform decision making regarding the spread of COVID-19, we have fit different models to the current dataset and estimated a 10-day forecast of the total case count with the best-fit model. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Exploration and Models Considered
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Model Comparison and Selection
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Prediction Estimates
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tessaerin/STAT-153-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
