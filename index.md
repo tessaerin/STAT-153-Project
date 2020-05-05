@@ -6,8 +6,8 @@ The coronavirus, also known as COVID-19, needs very little introduction as it ha
 
 Citizens of Timeseria have expressed concerns regarding hospital space and equipment, as well as the economic effects of a global pandemic. In order to inform decision making regarding the spread of COVID-19, we have fit different models to the current dataset and estimated a 10-day forecast of the total case count with our best-fit model. Of the models considered, we selected the model that had the best in-sample fit to the data and had the lowest error when reproducing portions of the COVID case data, indicating this model will give the best 10-day forecast. 
 
-The selected model takes into account the upward trend shown in the data, as well as correlation between data points. 
-
-
+The selected model takes into account the upward trend shown in the data, as well as correlation between data points. Based on our model prediction, we estimate the total COVID-19 case count will reach approximatley 110,000 within the next 10 days, which is demonstrated on the figure below. 
 
 ![Predicted COVID-19 case count in the next 10 days](https://user-images.githubusercontent.com/64803890/81121823-797acc80-8ee4-11ea-8e56-f6e9bb4a8b7e.png)
+
+According to our 70 percent confidence interval, the total case count range from approximatley 38,000 to 320,000 in the 10-day period; furthermore, the upper limit of our 95 percent confidence interval shows that the total case count could reach numbers on the order of 800,000. Despite the relatively large range of uncertainty, these numbers demonstrate the importance of measures taken to reduce the rate of the spread, such as social distancing and a possible shelter-in-place order. 
