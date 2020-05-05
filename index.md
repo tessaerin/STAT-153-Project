@@ -1,4 +1,4 @@
-## Coronavirus Case Count in the Country of Timeseria
+## Coronavirus Cases Affecting the Country of Timeseria
 
 The coronavirus, also known as COVID-19, needs very little introduction as it has been running rampant across the globe for some time now. 66 days have passed since the first confirmed case entered the country of Timeseria and the COVID-19 case count has since been increasing at an impressive rate, reaching just over 30,000 total confirmed cases to date. The upward trend in total cases can be seen in the figure below.
 
