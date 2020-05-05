@@ -10,3 +10,4 @@ The selected model takes into account the upward trend shown in the data, as wel
 
 
 
+![Predicted COVID-19 case count in the next 10 days](https://user-images.githubusercontent.com/64803890/81121823-797acc80-8ee4-11ea-8e56-f6e9bb4a8b7e.png)
