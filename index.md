@@ -16,5 +16,5 @@ According to our 70 percent confidence interval, the total case count could rang
 
 
 
-_Written by: Tessa Williams, Rex Winn
+_Written by: Tessa Williams, Rex Winn \\
 Date: May 6, 2020_
